@@ -1,0 +1,17 @@
+How to run :
+..................................................
+Step 1-> Install xampp or wamp in your pc.
+Step 2-> Run it and start apache and mysql.
+Step 3-> Go to your localhost from browser.
+Step 4-> Create a database and named it 'task_db'.
+Step 5-> In the 'task_db' database import database file from 'database' folder(in my 		  folder).
+Step 6-> Create a folder in '\xampp\htdocs' folder and named it 'temp'(you can use any 			name as you want).
+Step 7-> Now copy all the folder from 'http' folder(in my folder). and paste it in 			'temp' folder.
+Step 8-> Go to your browser and type 'localhost/temp'.
+Step 9-> Enjoy the task management web application.
+
+Step 10-> If still you face any problem, feel free to mail  me: 'sauvik.kundu240@gmail.com' 
+....................................................
+
+
+THANK YOU.
